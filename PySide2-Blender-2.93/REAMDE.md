@@ -1,4 +1,4 @@
-A PySide2 build compatible with Blender 2.9.3!
+A PySide2 build compatible with Blender 2.93!
 
 
 # Build Environment
