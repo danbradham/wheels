@@ -1,4 +1,4 @@
-A PySide2 build compatible with Maxon Cinema4D S24!
+A PySide2 build compatible with Maxon Cinema4D S24 and R25!
 
 
 # Build Environment
